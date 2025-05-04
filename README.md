@@ -1,7 +1,7 @@
 # Predicting Disease Progression with Linear Regression  
   
 ## Overview    
-I useD the UCI Diabetes dataset (via `sklearn.datasets`) to model the one-year disease progression measure as a function of 10 baseline clinical variables.    
+I used the UCI Diabetes dataset (via `sklearn.datasets`) to model the one-year disease progression measure as a function of 10 baseline clinical variables.    
   
 ## Contents    
 - `q5-compprehensive.ipynb`: step-by-step exploration, training, and evaluation.        
